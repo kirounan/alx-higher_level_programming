@@ -1,0 +1,1 @@
+Projects covers inheritance concepts in python
