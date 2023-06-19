@@ -1,0 +1,1 @@
+python project to implement square and rect class inherited from base class
