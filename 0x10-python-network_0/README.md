@@ -1,2 +1,1 @@
-Python Network
-using curl from network
+using curl for network tasks

@@ -1,1 +1,1 @@
-using python to read netwrk responses
+usings python scruipts to analyze network and responses

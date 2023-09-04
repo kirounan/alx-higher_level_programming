@@ -1,3 +1,3 @@
 #!/bin/bash
-# script to get status code of response
-curl -s "$1" -o /dev/null -w "%{http_code}"
+# Sends a GET request to a given URL and display the response status code.
+curl -s -o /dev/null -w "%{http_code}" "$1"
